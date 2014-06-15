@@ -1,0 +1,12 @@
+{"version":3,
+ "file":
+ "/home/theia/wefeedus/resources/public/js/compiled/out/geschichte/platform_log.js",
+ "sources":["platform_log.cljs"],
+ "lineCount":81,
+ "mappings":
+ ";AAAA;;AAKA;;;gCAAA,hCAAMA;sCAAN,NAAeC,MACb,OAAQC,cAAW,AAACC,0BAAMC,iBAAOH;;;IADpBA;EAAAA;iCAAAA;;;IAAAA;uBAAAA;;;;;;AAGf;;;+BAAA,/BAAMI;qCAAN,NAAcJ,MACZ,OAAOC,aAAW,AAACC,0BAAMC,iBAAOH;;;IADpBA;EAAAA;gCAAAA;;;IAAAA;sBAAAA;;;;;;AAGd;;;+BAAA,/BAAMK;qCAAN,NAAcL,MACZ,OAAOC,aAAW,AAACC,0BAAMC,iBAAOH;;;IADpBA;EAAAA;gCAAAA;;;IAAAA;sBAAAA;;;;;;AAGd;;;gCAAA,hCAAMM;sCAAN,NAAeN,MACb,OAAQC,cAAW,AAACC,0BAAMC,iBAAOH;;;IADpBA;EAAAA;iCAAAA;;;IAAAA;uBAAAA",
+ "names":
+ ["geschichte.platform-log/debug", "args", "js/console",
+  "cljs.core/apply", "cljs.core/pr-str",
+  "geschichte.platform-log/info", "geschichte.platform-log/warn",
+  "geschichte.platform-log/error"]}
